@@ -20,9 +20,7 @@ const { cuadrado_num } = require("./cuadrado_num");
 //}
 
 // module.exports = {suma,resta,multiplicacion,division};
-	const suma = (numero1,numero2) => {
-		return numero1 + numero2;
-	}
+
 
 	const resta = (numero1,numero2) => {
 		return numero1 - numero2;
